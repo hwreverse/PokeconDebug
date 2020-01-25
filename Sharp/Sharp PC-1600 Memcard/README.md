@@ -1,5 +1,5 @@
 # Sharp Memcard Breakout Board for Sharp PC-1500/PC-1600
-
+**Make sure to fabricate it with a witdh of 1.2mm !**
 ![Protoboard](img/card.png)
 
 ![Protoboard](img/memcard.png)
