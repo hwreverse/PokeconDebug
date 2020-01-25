@@ -1,0 +1,3 @@
+# Sharp 11pin to 15pin Adapter for Sharp PC-G850*, E500,...
+
+![Protoboard](img/1115adapter.png)
