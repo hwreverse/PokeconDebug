@@ -2,5 +2,5 @@
 
 ![Protoboard](15pinproto_small.png)
 
-All resistors and LEDs are 0805
+All resistors and LEDs are 0805<br>
 The 15pin connector is a 1x15pin male 1.27mm(50mil) pitch connector
